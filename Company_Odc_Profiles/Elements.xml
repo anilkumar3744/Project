@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/" >
+  <Module Name="Company_Odc_Profiles" List="113" Url="_catalogs/wp">
+    <File Path="Company_Odc_Profiles\Company_Odc_Profiles.webpart" Url="vrtxIntranetWebParts_Company_Odc_Profiles.webpart" Type="GhostableInLibrary" >
+      <Property Name="Group" Value="Vertex Intranet Portal" />
+    </File>
+  </Module>
+</Elements>
